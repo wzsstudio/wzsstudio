@@ -1,4 +1,4 @@
-<img src="1790814980146_image.png" alt="WZS Studio" width="100%">
+<img src="wzs-banner.svg" alt="WZS Studio" width="100%">
 
 # WZS Studio
 
