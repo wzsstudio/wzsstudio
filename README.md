@@ -1,16 +1,19 @@
-## Hi there 👋
+<img src="1790814980146_image.png" alt="WZS Studio" width="100%">
 
-<!--
-**wzsstudio/wzsstudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# WZS Studio
 
-Here are some ideas to get you started:
+**Sites e sistemas sob medida para negócios de Veranópolis e região.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Wesley Zanchettin de Souza. Crio sites para academias, lojas, escritórios e fábricas: rápidos, prontos para celular e fáceis de encontrar no Google.
+
+### O que eu faço
+
+Sites institucionais e páginas de venda · Sistemas sob medida (agendamentos, catálogos, cálculos) · Fotos profissionais do seu negócio, com fotógrafo parceiro
+
+### Projeto em destaque
+
+[Jurisconta](https://jurisconta.com): plataforma jurídica de gestão de casos e cálculos.
+
+### Contato
+
+Protótipo grátis, sem compromisso. WhatsApp e Instagram em breve.
