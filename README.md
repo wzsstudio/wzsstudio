@@ -10,10 +10,14 @@ Sou Wesley Zanchettin de Souza. Crio sites para academias, lojas, escritórios e
 
 Sites institucionais e páginas de venda · Sistemas sob medida (agendamentos, catálogos, cálculos) · Fotos profissionais do seu negócio, com fotógrafo parceiro
 
-### Projeto em destaque
+### Projetos
 
-[Jurisconta](https://jurisconta.com): plataforma jurídica de gestão de casos e cálculos.
+**[▶ Veja os vídeos de demonstração no portfólio](https://wzsstudio.github.io/portfolio/)**
 
-### Contato
+- [Jurisconta](https://jurisconta.com): plataforma jurídica de gestão de casos e cálculos.
+- Forja Academia: site para academia com halter 3D animado.
+- App de treino: PWA para montar treinos e acompanhar a evolução.
 
-Protótipo grátis, sem compromisso. WhatsApp e Instagram em breve.
+### Orçamento e contato
+
+Faça seu orçamento sem compromisso: [wes11zslan@gmail.com](mailto:wes11zslan@gmail.com)
