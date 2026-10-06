@@ -4,7 +4,7 @@
 
 **Sites e sistemas sob medida para negócios**
 
-Sou Wesley Zanchettin de Souza. Crio sites para academias, lojas, escritórios e fábricas: rápidos, prontos para celular e fáceis de encontrar no Google.
+Sou Wesley Zanchettin de Souza, de Vila Flores, RS, e atendo toda a região. Crio sites para academias, lojas, escritórios e fábricas: rápidos, prontos para celular e fáceis de encontrar no Google.
 
 ### O que eu faço
 
