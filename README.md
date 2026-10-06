@@ -20,4 +20,4 @@ Sites institucionais e páginas de venda · Sistemas sob medida (agendamentos, c
 
 ### Orçamento e contato
 
-Faça seu orçamento sem compromisso: [wes11zslan@gmail.com](mailto:wes11zslan@gmail.com)
+Faça seu orçamento sem compromisso: [wzs.studio11@gmail.com](mailto:wzs.studio11@gmail.com)
