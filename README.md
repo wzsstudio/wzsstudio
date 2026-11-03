@@ -12,7 +12,7 @@ Sites institucionais e páginas de venda · Sistemas sob medida (agendamentos, c
 
 ### Projetos
 
-**[▶ Veja os vídeos de demonstração no portfólio](https://wzsstudio.github.io/portfolio/)**
+**[▶ Veja os vídeos de demonstração em wzsstudio.com.br](https://wzsstudio.com.br)**
 
 - [Jurisconta](https://jurisconta.com): plataforma jurídica de gestão de casos e cálculos.
 - Forja Academia: site para academia interativo.
